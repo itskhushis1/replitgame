@@ -6,6 +6,7 @@ from tkinter import messagebox
 from copy import deepcopy
 
 # sign variable to decide the turn of which player
+
 sign = 0
 
 # Creates an empty board
